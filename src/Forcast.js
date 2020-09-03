@@ -8,7 +8,6 @@ export default function Forcast() {
       <hr />
       <div className="row week"></div>
       <p className="update-time">Updated 7/29 11:00 am</p>
-
     </div>
   );
 }
