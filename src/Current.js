@@ -16,7 +16,7 @@ export default function Current() {
       </h3>
       <div className="row">
         <div className="col-6 today-icon">
-          <img src="" className="icon" />
+          <img src="" className="icon" alt="weather icon"/>
           <h5 className="today-icon-title">Partly Cloudy</h5>
         </div>
         <div className="col-6">
